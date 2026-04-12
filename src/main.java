@@ -40,3 +40,4 @@ AI-driven knowledge training platform with pluggable schedulers, Codex Skill int
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // guard against empty input
+// avoid re-reading the config on every call
