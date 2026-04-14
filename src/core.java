@@ -45,3 +45,4 @@ AI-driven knowledge training platform with pluggable schedulers, Codex Skill int
 // clarify the control flow
 // guard against empty input
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
